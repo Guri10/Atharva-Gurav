@@ -16,7 +16,7 @@ I'm a Master's student in Computer Science at Indiana University, passionate abo
 
 ## 📫 How to reach me
 - **Email**: atharvagurav01@gmail.com
-- **LinkedIn**: [LinkedIn_Profile](Your_LinkedIn_Profile_Link)
+- **LinkedIn**: [LinkedIn_Profile](https://www.linkedin.com/in/atharva-gurav-505124204/)
 
 Feel free to connect with me for collaborations or just a chat about the latest in tech and innovation.
 
