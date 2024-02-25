@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Atharva Rajesh Gurav
 
-![Banner]([URL_to_your_banner_image](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105))
+![Banner](https://cdnb.artstation.com/p/assets/images/images/048/282/733/original/exceptrea-gamerroom-1-revisioned-0.gif?1649761105)
 
 I'm a Master's student in Computer Science at Indiana University, passionate about software development, data science, and machine learning. With a solid foundation from my Bachelor's at Dr. Vishwanath Karad MIT World Peace University, I'm driven by the power of data and technology to solve complex problems.
 
